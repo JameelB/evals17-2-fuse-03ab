@@ -56,7 +56,7 @@ public class CamelRouter extends RouteBuilder {
             .parallelProcessing()
 
             //
-            // COMMENT OUT THIS
+            // COMMENT OUT THIS - test
 //             .to("direct:arrivalsImplLocal", "direct:departuresImplLocal");
 
             //
